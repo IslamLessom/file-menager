@@ -1,0 +1,14 @@
+{
+  "name": "file_menager",
+  "version": "1.0.0",
+  "description": "This is file_menager",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Islam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
